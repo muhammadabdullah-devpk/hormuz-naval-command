@@ -1,0 +1,23 @@
+{
+  "name": "hormuz-naval-command",
+  "version": "1.0.0",
+  "description": "Hormuz Naval Command — Real-Time Maritime Crisis Operations, Geospatial AIS & AI Strategic System",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client run dev",
+    "install:all": "npm --prefix server install && npm --prefix client install"
+  },
+  "keywords": [
+    "maritime",
+    "ais-tracking",
+    "naval-command",
+    "geofencing",
+    "leaflet",
+    "real-time",
+    "crisis-ops",
+    "gemini-ai",
+    "websocket"
+  ],
+  "author": "Muhammad Abdullah (muhammadabdullah-devpk)",
+  "license": "MIT"
+}
